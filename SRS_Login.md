@@ -188,3 +188,4 @@ Form căn giữa trang, thứ tự từ trên xuống: Language → Email Addres
 - Menu trái: Dashboard, Customers, Projects, Tasks, Contracts, Sales, Subscriptions, Expenses, Support, Leads, Estimate Request, Knowledge Base, Utilities, Reports.
 - Dashboard hiển thị: tổng quan Invoice/Estimate/Proposal, số liệu doanh thu, bảng Tasks, lịch, To Do, Leads, Project Activity.
 - Chưa kiểm tra: thông báo lỗi khi sai thông tin, Remember me, đăng xuất, khoá tài khoản.
+- add thêm để test git
